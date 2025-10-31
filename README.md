@@ -1,5 +1,5 @@
 # 🌀 Maze Generator Tool (Python + Streamlit + WebView)
-
+![Preview](images/preview.png)
 **Maze Generator** is a visualization and utility tool that procedurally generates mazes using Python.  
 It allows users to configure size, difficulty, and export the maze data as a JSON file.  
 The app is built with **Streamlit** for the UI and wrapped inside a **desktop WebView (macOS)** launcher.
