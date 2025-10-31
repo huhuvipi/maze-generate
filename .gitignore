@@ -1,0 +1,52 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# --- Virtual environments ---
+venv/
+venv_app/
+.env/
+.env.bak/
+.venv/
+
+# --- Streamlit cache ---
+.streamlit/
+.streamlit-cache/
+.streamlit-secrets.toml
+
+# --- Build / Distribution ---
+build/
+dist/
+*.spec
+*.egg-info/
+*.egg/
+*.log
+
+# --- macOS system files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Temporary files ---
+tmp/
+temp/
+*.bak
+*.old
+
+# --- Exported data / generated files ---
+exported/
+output/
+*.json
+
+# --- App-specific ---
+splash.png
+Icon.icns
